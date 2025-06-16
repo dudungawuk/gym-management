@@ -1,5 +1,5 @@
 package com.dudung.gym.service;
 
-public class MembershipRepository {
+public class MembershipService {
     
 }
